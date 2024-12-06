@@ -8,6 +8,13 @@ Program Id: 66vaBdJJQXqxdKTvpzRM6AnYDAZesSLvR7vVUo5fzBLz
 
 Signature: https://solana.fm/tx/2xecudMQ8JskNePzw8MHLfbiAEpBioTMMfxYMQd2EDuF8JbCiyxmYxEW6CECQeoq9hdmLkg4K7D38TWYZVNqvnhz?cluster=devnet-alpha
 
+## demo video
+https://www.loom.com/share/d749b9159c3c4a4f905d4959f643ef61?sid=d5b1ca49-4b6a-4790-b5f2-67684b7b0b9b
+
+## testing result
+
+![alt text](image.png)
+
 ## description
 - Aspire is a platform for whom is aspired for study abroad but needs financial supports.
 Student can post their stories, and make funds from everyone onchain.

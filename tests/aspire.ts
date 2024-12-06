@@ -20,7 +20,7 @@ import {
 } from "@solana/spl-token";
 import { randomBytes } from "crypto";
 
-describe("anchor-escrow", () => {
+describe("aspire", () => {
   anchor.setProvider(anchor.AnchorProvider.env());
 
   const provider = anchor.getProvider();
